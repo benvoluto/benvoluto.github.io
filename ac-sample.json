@@ -122,7 +122,7 @@
                         "date":"",
                         "logged_by_user":{
                             "id":1,
-                            "name":'Davey T'
+                            "name":"Davey T"
                         }
                     }
                 ]
@@ -163,7 +163,7 @@
                         "date":"2017-01-02",
                         "logged_by_user":{
                             "id":1,
-                            "name":'Davey T'
+                            "name":"Davey T"
                         }
                     }
                 ],
@@ -182,7 +182,7 @@
                         "date":"",
                         "logged_by_user":{
                             "id":1,
-                            "name":'Davey T'
+                            "name":"Davey T"
                         }
                     }
                 ]
