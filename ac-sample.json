@@ -3,7 +3,7 @@
         "group":{
             "id":1,
             "lang":"en",
-            "url":"/groups/oakland",
+            "slug":"east-bay-rising",
             "name":"East Bay Rising",
             "city":"Oakland",
             "region":"CA",
@@ -193,7 +193,7 @@
                 {
                     "name":"San Francisco Actions",
                     "group_id":"12",
-                    "url":"groups/san_francsico",
+                    "slug":"san-francsico-actions",
                     "city":"San Francisco",
                     "distance":"14"
                 },
