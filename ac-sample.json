@@ -310,7 +310,7 @@
         "group":{
             "id":2,
             "lang":"en",
-            "url":"/groups/san-francisco-actions",
+            "slug":"san-francisco-actions",
             "name":"San Francisco Actions",
             "city":"Oakland",
             "region":"CA",
